@@ -2,6 +2,4 @@
 
 ### Welcome to my Profile
 
-My favorite languges are Java (Understood) and C++ (Understanding)
-
-My current project that I am working on is: fourchan client
+I stopped working in java because its a lost cause, I'm just going back to c++ for now
