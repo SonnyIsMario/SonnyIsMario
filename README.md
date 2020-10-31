@@ -2,6 +2,6 @@
 
 ### Welcome to my Profile
 
-Languages: C++, Java
+Languages: Java, C++ on the side
 
 ## Current Project: fourchan (again)
