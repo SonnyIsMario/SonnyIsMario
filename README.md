@@ -2,6 +2,6 @@
 
 ### Welcome to my Profile
 
-Languages: Java, C++ on the side
+see plus plus pro-gamer
 
-## Current Project: eleva (secret ;))
+
