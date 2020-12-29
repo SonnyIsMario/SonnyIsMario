@@ -2,6 +2,7 @@
 
 ### Welcome to my Profile
 
-see plus plus pro-gamer
+i fart alot please help
 
+its like kinda red gas and it wont stop
 
